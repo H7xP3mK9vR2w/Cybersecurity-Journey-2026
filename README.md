@@ -1,12 +1,11 @@
-# Password Strength Checker
+ # PORT SCANNER PROJECT :-
+   
+  - Actually it is a project made using loop function of python for cyber security purpose.
 
-A simple Python tool that checks password strength.
+   WHAT IT ACTUALLY DO ?
+    - "The loop goes through all port numbers from 1 to 1000 one by one,
+         and for each port the program checks whether it is open"
 
-Features:
-- Checks password length
-- Checks uppercase letters
-- Checks lowercase letters
-- Checks numbers
-- Checks special characters
-
-Created as part of my cybersecurity learning journey.
+  WHAT IS THE USE OF IT ?
+  -  by knowing that which port is open on our systems currently, we can find out that which port is vulnerable to hackers 
+     for hacking and hence we can protect it from hackers in time .     
