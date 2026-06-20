@@ -42,7 +42,7 @@ I am an aspiring cybersecurity student preparing for IIT Kanpur's B.Cyber progra
 
 ## Current Certifications
 
-* Cisco Introduction to Cybersecurity (In Progress)
+* Cisco Introduction to Cybersecurity ( completed )
 
 ## Future Goals
 
